@@ -1,3 +1,28 @@
+html, body {
+  background-color: #2261be;
+
+  /*width: 100%; /*Trying to make page 100% of browser window*/
+  /*width: 100vw /*New measurement for view window? Not sure if this works*/
+
+}
+
+.allContent {
+  width: 100%;
+}
+
+header {
+  background-color: #fe6150;
+}
+
 .jumbotron {
   color: red;
+  background-image: url("../assets/page_banner.png")
+}
+
+.logo {
+  border-radius: 200px;
+}
+
+.rinkList {
+  background-color: #2261be;
 }
