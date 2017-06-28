@@ -23,6 +23,14 @@ header {
   border-radius: 200px;
 }
 
+#navTab {
+  height: 200px;
+  width: 200px;
+  border-radius: 250px;
+  border: 1px solid black;
+  background-color: rgba(0, 13, 46, 0.3);
+}
+
 .rinkList {
   background-color: #2261be;
 }
