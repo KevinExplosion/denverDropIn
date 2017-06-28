@@ -15,7 +15,7 @@ header {
 }
 
 .jumbotron {
-  color: red;
+  height: 450px;
   background-image: url("../assets/page_banner.png")
 }
 
@@ -32,5 +32,6 @@ header {
 }
 
 .rinkList {
-  background-color: #2261be;
+  margin-top: 100px;
+  background-color: rgba(0, 13, 46, 0.3);
 }
